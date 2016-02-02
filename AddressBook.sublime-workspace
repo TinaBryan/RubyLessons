@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"yield"
+			],
+			[
+				"todo_",
+				"todo_item"
+			],
+			[
+				"todo",
+				"todo_item"
+			],
+			[
+				"tod",
+				"todo_item"
+			],
+			[
+				"E",
+				"Eggs"
+			],
+			[
+				"to",
+				"todo_list"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"sales",
+				"salesTotal"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"mi",
+				"middle_name"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"ph",
+				"phone_numbers"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"conta",
+				"contact_list"
+			],
+			[
+				"print",
+				"print_separator"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"in",
+				"inspect"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"P",
+				"Poiret"
+			],
+			[
+				"c",
+				"cursive"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"nav",
+				"nav1"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"W",
+				"widget"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"name",
+				"nameinput"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"submit",
+				"submitbutton"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"e",
+				"e3d5ba"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-table"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"lo",
+				"lower-roman"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"main",
+				"mainnav"
+			],
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contact.rb",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix",
+				"name": "class Contact"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tinabryan/Documents/RubyLessons/AddressBook.sublime-project",
+		"/Users/tinabryan/Documents/RubyLessons/string#each_char.rb",
+		"/Users/tinabryan/Documents/RubyLessons/block_array.rb",
+		"/Users/tinabryan/Documents/RubyLessons/simple_benchmarker.rb",
+		"/Users/tinabryan/Documents/RubyLessons/my_array.rb",
+		"/Users/tinabryan/Documents/RubyLessons/calling_blocks.rb",
+		"/Users/tinabryan/Documents/RubyLessons/block_method.rb",
+		"/Users/tinabryan/Documents/RubyLessons/block_examples.rb",
+		"/Users/tinabryan/Documents/RubyLessons/block_arguments.rb",
+		"/Users/tinabryan/projects/RubyBlocks.sublime-project",
+		"/Users/tinabryan/Documents/RubyLessons/conditional_assignment.rb",
+		"/Users/tinabryan/Documents/RubyLessons/speed_sign_methods.rb",
+		"/Users/tinabryan/Documents/RubyLessons/car_speed.rb",
+		"/Users/tinabryan/Documents/RubyLessons/bank_account.rb",
+		"/Users/tinabryan/Documents/IvyTechSpring_2016/Client_Side_Script_lang&Tools/Data Files/Chapter01/HandsOnProject1-4/modernizr.custom.05819.js",
+		"/Users/tinabryan/Documents/RubyLessons/name.rb",
+		"/Users/tinabryan/Documents/Ivy_Tech_Spring_2016/Client_Side_Script_lang&Tools/S01/tina_bryan_Intro_doc",
+		"/Users/tinabryan/Documents/RubyLessons/loop.rb",
+		"/Users/tinabryan/Documents/RubyLessons/loop_conditional_number",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/NatomaTestPlan.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/forSomeoneSpecial.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/css/fsprint.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/pRprint.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit G/Data Files/Unit/reserve.html",
+		"/Users/tinabryan/Documents/facebookEmbed.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/robots.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/sitemap.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/nearby.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/greensf.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/Natoma Test Plan.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/natoma.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/natoma.min.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/hnprint.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/IC3/www.root/natomaTestPlan.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/Unit/www.root/Lakeland Test Plan.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit P/Data Files/Unit/www.root/LakelandTestPlan.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/index.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/IC3/mobile/scripts/hnmobile.js",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/IC3/mobile/scripts/distancecalc.js",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/IC3/mobile/natoma.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/IC3/www.root/nearby.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/HTM O-1.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/llmobile.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/scripts/distancecalc.js",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/scripts/HTM O-5.js",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/llmobile.min.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/images/fl_comb.gif",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/mobile/scripts/llmobile.js",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/lakeland.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/www.root/lakeland2.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit O/Data Files/Unit/HTM O-3.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/natoma.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/hnprint.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/www.root/streetfair.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/HTM N-5.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/www.root/sitemap.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/IC3/www.root/robots.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/Unit/www.root/llprint.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/Unit/www.root/lakeland.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/Unit/www.root/rooms.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Data Files 1111527989_302506/9781111527983_Data/Unit N/Data Files/Unit/www.root/robots.txt",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/about.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/contact.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/fitting.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/form.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/gallery.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/holiday.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/princess.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/tutu.html",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/css/forSomeoneSpecial.css",
+		"/Users/tinabryan/Documents/Ivy_Tech_Fall_2015/Web_Site_Dev_153/New_Project/www.root/dog_sizing_chart.pdf",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/about.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/contact.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/form.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/fitting.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/forSomeoneSpecial.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/gallery.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/holiday.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/princess.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/tutu.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/css/fsprint.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit J/Data Files/Unit/www.root/contact.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/fsform.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/order.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/images/peach_tutu",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/css/gallery.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/index.html",
+		"/Users/tinabryan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/NewProjectForSomeoneSpecial.sublime-project",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/NewProjectForSomeoneSpecial.sublime-workspace",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/reserve.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/New Project/www.root/paw_print.ico",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit H/Data Files/Unit/www.root/aboutus.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit H/Data Files/Unit/www.root/lakeland.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/special.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/nearby.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/gallery.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/missions.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/kids.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/order.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/shout.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/contact.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/calendar.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/girlsize.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/measure.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/pets.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/about.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit I/Data Files/Unit/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit I/Data Files/Unit/www.root/lakeland.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Draft/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/untitled folder/untitled folder/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit H/Data Files/Unit/www.root/llprint.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/petsize.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit F/Data Files/Unit/www.root/lakeland.css",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit F/Data Files/Unit/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Web Site Dev 153/Project/www.root/new.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit M/Data Files/IC3/htmm-9.txt",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit M/Data Files/Unit/www.root/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit M/Data Files/Unit/index.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit M/Data Files/Unit/htmm-2.txt",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit M/Data Files/Unit/HTM M-1.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit L/Data Files/IC3/www.root/nearby.html",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit L/Data Files/IC3/www.root/scripts/gallery.js",
+		"/Users/tinabryan/Documents/Ivy Tech Fall 2015/Data Files 1111527989_302506/9781111527983_Data/Unit L/Data Files/Unit/www.root/scripts/form.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/\"",
+			"th",
+			"30",
+			"        	</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contact.rb",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Contact",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}
